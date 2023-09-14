@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    height: 100vh;
+}
+
+iframe{
+    position: absolute;
+    height: 100%;
+}
+img{
+    cursor: pointer;
+    position: relative;
+    top: 15rem;
+    left: 5rem;
+    width: 150px;
+    height : 130px;
+}
+
+
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+a h3 {
+    position: relative;
+    top: 3rem;
+    left: 6.7rem;
+    color: black;
+}
+
+.a2 {
+    position: relative;
+    left: 55rem;
+
+}
